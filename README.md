@@ -1,4 +1,4 @@
-![Pranav Jonnavithula Banner](./banner.pdf)
+![Pranav Jonnavithula Banner](banner.jpg)
 
 # 👋 Hello, I'm Pranav!
 
