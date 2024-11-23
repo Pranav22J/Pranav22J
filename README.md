@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Pranav!
 
-> Business Analytics student at UGA with a passion for transforming data into actionable insights.
+> Business Analytics student at the University of Georgia (UGA) with a passion for transforming data into actionable insights.
 
 ## 🎓 About Me
 I'm a data enthusiast who believes in using technology to make a real difference. My journey began in a small village in India where I led a project to bring internet access to local children, opening their world to digital education. Today, I blend technical skills with business acumen to solve complex problems through data.
@@ -26,9 +26,9 @@ I'm a data enthusiast who believes in using technology to make a real difference
    - Identified $50k in potential savings
 
 ## 🏆 Achievements
-- Best Overall Project Award (NCR Voyix) - Summer 2024
-- Best Overall Project Award (NCR Corporation) - Summer 2023
-- Presidential Scholar (4.00/4.00 GPA) - UGA
+- Best Overall Intern Project Award (NCR Voyix) - Summer 2024
+- Best Overall Intern Project Award (NCR Corporation) - Summer 2023
+- Presidential Scholar (4.00/4.00 GPA) - University of Georgia
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav22j)
