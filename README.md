@@ -10,7 +10,7 @@ I'm a data enthusiast who believes in using technology to make a real difference
 ## 🛠️ Technical Skills
 - **Programming Languages:** Python, SQL, R, Java
 - **Data Visualization:** Power BI, Tableau
-- **Cloud Computing:** AWS
+- **Cloud Computing:** AWS Cloud Computing
 - **Tools & Technologies:** Advanced Excel Analytics, Salesforce (Salescloud)
 - **Certifications:** Lean Six Sigma (Yellow Belt)
 
