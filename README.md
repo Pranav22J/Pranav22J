@@ -14,20 +14,9 @@ I'm a data enthusiast who believes in using technology to make a real difference
 - **Tools & Technologies:** Advanced Excel Analytics, Salesforce (Salescloud)
 - **Certifications:** Lean Six Sigma (Yellow Belt)
 
-## 🚀 Featured Projects
-1. **Python-Powered Data Standardization**
-   - Developed scalable Python application processing 7,000+ customer records
-   - Reduced duplicate data by 15%
-   - Built Power BI dashboards for sales reporting
-
-2. **Revenue Audit Analytics**
-   - Consolidated $304M worth of customer data
-   - Created Excel-based dashboards for revenue analysis
-   - Identified $50k in potential savings
-
 ## 🏆 Achievements
-- Best Overall Intern Project Award (NCR Voyix) - Summer 2024
-- Best Overall Intern Project Award (NCR Corporation) - Summer 2023
+- Best Overall Intern Project Award (NCR Voyix Internship) - Summer 2024
+- Best Overall Intern Project Award (NCR Corporation Internship) - Summer 2023
 - Presidential Scholar (4.00/4.00 GPA) - University of Georgia
 
 ## 📫 Let's Connect!
