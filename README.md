@@ -14,6 +14,32 @@ I'm a data enthusiast who believes in using technology to make a real difference
 - **Tools & Technologies:** Advanced Excel Analytics, Salesforce (Salescloud)
 - **Certifications:** Lean Six Sigma (Yellow Belt)
 
+## 🚀 Featured Projects
+
+### Telco Customer Churn Prediction
+A machine learning solution that predicts customer churn with 78% accuracy for a telecommunications company, enabling proactive retention strategies.
+
+**Key Accomplishments:**
+- Developed and compared Logistic Regression and Random Forest models, achieving 82% recall in identifying at-risk customers
+- Engineered features from 35+ variables and identified top 10 predictive factors using Chi-squared testing
+- Created interactive visualization dashboard using Plotly and Seaborn for customer behavior analysis
+- Deployed prediction model via Streamlit for real-time churn risk assessment
+
+**Tech Stack:** Python, Scikit-learn, Pandas, Plotly, Streamlit, SciPy
+
+### Kroger Data Model Analysis
+A comprehensive SQL database design and analysis project for optimizing retail operations and inventory management.
+
+**Key Accomplishments:**
+- Designed normalized database schema with 10+ interconnected tables for retail operations
+- Implemented complex SQL queries for inventory tracking and sales analysis
+- Created stored procedures and views for streamlined reporting
+- Developed data model documentation for maintainability and scalability
+
+**Tech Stack:** SQL, Database Design, ERD Modeling
+
+[View all projects →](https://github.com/Pranav22J?tab=repositories)
+
 ## 🏆 Achievements
 - Best Overall Intern Project Award (NCR Voyix Internship) - Summer 2024
 - Best Overall Intern Project Award (NCR Corporation Internship) - Summer 2023
