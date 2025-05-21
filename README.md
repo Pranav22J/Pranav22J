@@ -16,7 +16,7 @@ I'm a data enthusiast who believes in using technology to make a real difference
 
 ## 🚀 Featured Projects
 
-**AI Agent Contract Analyzer**
+### AI Agent Contract Analyzer**
 An end-to-end AI-powered platform that analyzes legal contracts using large language models, vector databases, and retrieval-augmented generation (RAG) to provide intelligent contract insights and Q&A capabilities.
 
 **Key Accomplishments:**
