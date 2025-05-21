@@ -16,6 +16,19 @@ I'm a data enthusiast who believes in using technology to make a real difference
 
 ## 🚀 Featured Projects
 
+**AI Agent Contract Analyzer**
+An end-to-end AI-powered platform that analyzes legal contracts using large language models, vector databases, and retrieval-augmented generation (RAG) to provide intelligent contract insights and Q&A capabilities.
+
+**Key Accomplishments:**
+* Built complete RAG pipeline with PDF processing, text chunking, embedding generation, and ChromaDB vector storage
+* Developed multi-component architecture with Flask API backend, MCP tool server, and Streamlit frontend
+* Implemented OpenAI GPT-4o integration for natural language contract querying and automated insight generation
+* Created API key authentication system with rate limiting and user management
+* Designed semantic search capabilities using text-embedding-ada-002 for accurate contract content retrieval
+
+**Tech Stack:** Python, OpenAI GPT-4o, ChromaDB, LangChain, Flask, Streamlit, FastMCP, SQLAlchemy, PyMuPDF
+
+
 ### Telco Customer Churn Prediction
 A machine learning solution that predicts customer churn with 78% accuracy for a telecommunications company, enabling proactive retention strategies.
 
@@ -26,17 +39,6 @@ A machine learning solution that predicts customer churn with 78% accuracy for a
 - Deployed prediction model via Streamlit for real-time churn risk assessment
 
 **Tech Stack:** Python, Scikit-learn, Pandas, Plotly, Streamlit, SciPy
-
-### Kroger Data Model Analysis
-A comprehensive SQL database design and analysis project for optimizing retail operations and inventory management.
-
-**Key Accomplishments:**
-- Designed normalized database schema with 10+ interconnected tables for retail operations
-- Implemented complex SQL queries for inventory tracking and sales analysis
-- Created stored procedures and views for streamlined reporting
-- Developed data model documentation for maintainability and scalability
-
-**Tech Stack:** SQL, Database Design, ERD Modeling
 
 [View all projects →](https://github.com/Pranav22J?tab=repositories)
 
